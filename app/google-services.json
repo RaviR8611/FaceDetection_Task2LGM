@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:279252980536:android:2f5b465b2a14982677a7cd",
         "android_client_info": {
-          "package_name": "com.vibhathakur.facedetection"
+          "package_name": "com.ravirathod.facedetectionLGM"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "279252980536-ma1b8rl6l58segblk95jve2lf726mjg5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.vibhathakur.facedetection",
+            "package_name": "com.ravirathod.facedetectionLGM",
             "certificate_hash": "8aa00132d3a317a48d1f4412edb901d4d616c12a"
           }
         },

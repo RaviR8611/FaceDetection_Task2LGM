@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.cardview:cardview:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\3c20e03d685e30b7f0e4c4b8895f841a\cardview-1.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.cardview:cardview:1.0.0" from-dependency="true" generated-set="androidx.cardview:cardview:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\3c20e03d685e30b7f0e4c4b8895f841a\cardview-1.0.0\res"><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\3c20e03d685e30b7f0e4c4b8895f841a\cardview-1.0.0\res\values\values.xml" qualifiers=""><attr format="reference" name="cardViewStyle"/><color name="cardview_dark_background">#FF424242</color><color name="cardview_light_background">#FFFFFFFF</color><color name="cardview_shadow_end_color">#03000000</color><color name="cardview_shadow_start_color">#37000000</color><declare-styleable name="CardView">
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.annotation:annotation-experimental:1.1.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c6c2413ced624fe1f65789e91e1951a\jetified-annotation-experimental-1.1.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.annotation:annotation-experimental:1.1.0" from-dependency="true" generated-set="androidx.annotation:annotation-experimental:1.1.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c6c2413ced624fe1f65789e91e1951a\jetified-annotation-experimental-1.1.0\res"><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c6c2413ced624fe1f65789e91e1951a\jetified-annotation-experimental-1.1.0\res\values\values.xml" qualifiers=""/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.test:core:1.5.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e0d58de1582f8c2aa9ca93056e8b5e29\core-1.5.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.test:core:1.5.0" from-dependency="true" generated-set="androidx.test:core:1.5.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e0d58de1582f8c2aa9ca93056e8b5e29\core-1.5.0\res"><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e0d58de1582f8c2aa9ca93056e8b5e29\core-1.5.0\res\values\values.xml" qualifiers=""><style name="WhiteBackgroundDialogTheme" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style><style name="WhiteBackgroundTheme" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style></file><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e0d58de1582f8c2aa9ca93056e8b5e29\core-1.5.0\res\values-v18\values.xml" qualifiers="v18"><style name="WhiteBackgroundDialogTheme" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:windowOverscan">true</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style><style name="WhiteBackgroundTheme" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:windowOverscan">true</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style></file><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e0d58de1582f8c2aa9ca93056e8b5e29\core-1.5.0\res\values-v21\values.xml" qualifiers="v21"><style name="WhiteBackgroundDialogTheme" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:windowOverscan">true</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowContentTransitions">false</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style><style name="WhiteBackgroundTheme" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:windowOverscan">true</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowContentTransitions">false</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style></file><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e0d58de1582f8c2aa9ca93056e8b5e29\core-1.5.0\res\values-v28\values.xml" qualifiers="v28"><style name="WhiteBackgroundDialogTheme" parent="@android:style/Theme.Material.Dialog.NoActionBar">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:windowOverscan">true</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowContentTransitions">false</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style><style name="WhiteBackgroundTheme" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">false</item>
+<item name="android:windowOverscan">true</item>
+<item name="android:fadingEdge">none</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowContentTransitions">false</item>
+<item name="android:windowAnimationStyle">@null</item>
+</style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.cardview:cardview:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\3c20e03d685e30b7f0e4c4b8895f841a\cardview-1.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.cardview:cardview:1.0.0" from-dependency="true" generated-set="androidx.cardview:cardview:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\3c20e03d685e30b7f0e4c4b8895f841a\cardview-1.0.0\res"><file path="C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\3c20e03d685e30b7f0e4c4b8895f841a\cardview-1.0.0\res\values\values.xml" qualifiers=""><attr format="reference" name="cardViewStyle"/><color name="cardview_dark_background">#FF424242</color><color name="cardview_light_background">#FFFFFFFF</color><color name="cardview_shadow_end_color">#03000000</color><color name="cardview_shadow_start_color">#37000000</color><declare-styleable name="CardView">
         
         <attr format="color" name="cardBackgroundColor"/>
         
