@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ravi\\Desktop\\Android-LetsGrowMore-main\\Face_Detector-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "C:\\Users\\Ravi\\Desktop\\LGM\\Face_Detector-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ravi\\.gradle\\caches\\transforms-2\\files-2.1\\ee45d204a6ebb9fb4b2b47102fe2d72f\\material-1.4.0\\res\\values-bs\\values-bs.xml",

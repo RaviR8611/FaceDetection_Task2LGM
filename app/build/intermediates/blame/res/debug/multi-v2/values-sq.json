@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ravi\\Desktop\\Android-LetsGrowMore-main\\Face_Detector-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\Ravi\\Desktop\\LGM\\Face_Detector-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ravi\\.gradle\\caches\\transforms-2\\files-2.1\\bffcc206e432a3d918753287bae05fa3\\appcompat-1.2.0\\res\\values-sq\\values-sq.xml",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ee45d204a6ebb9fb4b2b47102fe2d72f\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\dce72b67dfd3e951f9208cb82808f28d\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\bffcc206e432a3d918753287bae05fa3\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -64,25 +64,25 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Ravi\.gradle\caches\transforms
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\1e844690ed683c6b1f627b9200ecf4e3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c6c2413ced624fe1f65789e91e1951a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\dc7473cf0c7bbd3697b5341e4bd4064d\relinker-1.4.1\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:5:5-29:19
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ee45d204a6ebb9fb4b2b47102fe2d72f\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ee45d204a6ebb9fb4b2b47102fe2d72f\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\dce72b67dfd3e951f9208cb82808f28d\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -114,49 +114,49 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ra
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\385b999f0d75cdd9ae9f7513bd022662\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:9:9-42
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:9:9-42
 	android:icon
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:7:9-37
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:7:9-37
 	android:allowBackup
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.ravirathod.facedetectionLGM.SplashScreen
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:12:9-20:20
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.ravirathod.facedetectionLGM.MainActivity
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:21:9-24:20
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:21:9-24:20
 	android:exported
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:21:19-47
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:21:19-47
 meta-data#preloaded_fonts
-ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:26:9-28:57
+ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:26:9-28:57
 	android:resource
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:28:13-54
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:28:13-54
 	android:name
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml:27:13-43
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml:27:13-43
 uses-sdk
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ee45d204a6ebb9fb4b2b47102fe2d72f\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ee45d204a6ebb9fb4b2b47102fe2d72f\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\dce72b67dfd3e951f9208cb82808f28d\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
@@ -277,16 +277,16 @@ MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ravi\.g
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c6c2413ced624fe1f65789e91e1951a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\dc7473cf0c7bbd3697b5341e4bd4064d\relinker-1.4.1\AndroidManifest.xml:5:5-43
 MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\dc7473cf0c7bbd3697b5341e4bd4064d\relinker-1.4.1\AndroidManifest.xml:5:5-43
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ravi\Desktop\Android-LetsGrowMore-main\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ravi\Desktop\LGM\Face_Detector-main\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b13f4a148bcf716a4f009ca722ad138c\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
 	android:exported
